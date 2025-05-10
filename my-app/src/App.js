@@ -1,7 +1,7 @@
 import './App.scss';
 import Tabs from './Tab';
 import Footer from './components/Footer';
-import Header from "./components/header";
+import Header from "./components/Header";
 
 function App() {
   return (
