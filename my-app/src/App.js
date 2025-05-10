@@ -1,6 +1,7 @@
 import './App.scss';
 import Tabs from './Tab';
-import Header from "./components/Header"
+import Footer from './components/Footer';
+import Header from "./components/header";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <div class="container-fluid p-0">
           <Header />
           <Tabs />
+          <Footer />
         </div>
       </header>
     </div>
